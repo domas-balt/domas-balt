@@ -1,6 +1,6 @@
 ⚡ Fun fact: 
 
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/domas-balt/domas-balt/blob/main/gyf.gif))
+![](https://github.com/domas-balt/domas-balt/blob/main/gyf.gif)
 
 <!--
 **domas-balt/domas-balt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
