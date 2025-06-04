@@ -1,4 +1,3 @@
-⚡ Fun fact: 
 
 ![](https://github.com/domas-balt/domas-balt/blob/main/gyf.gif)
 
