@@ -1,5 +1,4 @@
 
-![](https://github.com/domas-balt/domas-balt/blob/main/gyf.gif)
 
 <!--
 **domas-balt/domas-balt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
